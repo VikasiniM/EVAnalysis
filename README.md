@@ -2,7 +2,7 @@
 # 🚗 **Electric Vehicle Sales Analysis (India)**
 
 ## 📌 Project Overview
-This project explores **electric vehicle (EV) sales trends** in India from **2022 to 2024** using **Power BI** and data analysis techniques. It provides insights into EV adoption by state and manufacturer, market penetration, seasonal trends, and growth forecasting.
+This project explores **electric vehicle (EV) sales trends** in India from **2022 to Present** using **Power BI** and data analysis techniques. It provides insights into EV adoption by state and manufacturer, market penetration, seasonal trends, and growth forecasting.
 
 ---
 
